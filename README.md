@@ -1,1 +1,2 @@
-# Decentralized-Formation-Control-and-Obstacle-Avoidance-for-UAVs
+## Decentralized-Formation-Control-and-Obstacle-Avoidance-for-UAV
+##### This project investigates decentralized consensus-based formation control algorithms for multi-UAV (Unmanned Aerial Vehicle) systems navigating toward predefined target locations in two-dimensional environments populated with polygonal obstacles. Implemented using Python and visualized through animated simulations in Jupyter Notebook, the study evaluates the performance of multiple coordination strategies, including average consensus, Vicsek flocking, potential fields, and distributed gradient descent. Each method is designed to enable collision-free, cooperative motion among UAVs without reliance on centralized control.
